@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.traffic-light-container {
+    background-color: #86d2f2;
+    height: 100vh;
+}
+
+.traffic-light-heading {
+    color: #1f1d41;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.button {
+    background-color: #1f1d41;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 15px;
+    width: 70px;
+    height: 40px;
+    margin-top: 40px;
+    border-width: 0;
+    border-radius: 10px;
+}
+
+.traffic-light {
+    background-color: #1f1d41;
+    margin-left: 20px;
+    height: 300px;
+    width: 100px;
+    border-radius: 40px;
+    padding: 20px;
+}
+
+.bulb {
+    height: 50px;
+    width: 50px;
+    background-color: #4b5069;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+}
