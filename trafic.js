@@ -5,7 +5,7 @@ function turnonRed() {
     document.getElementById("readyButton").style.backgroundColor = "#1f1d41";
     document.getElementById("readyLight").style.backgroundColor = "#4b5069";
 
-    document.getElementById("goButton").backgroundColor = "#1f1d41";
+    document.getElementById("goButton").style.backgroundColor = "#1f1d41";
     document.getElementById("goLight").style.backgroundColor = "#4b5069";
 }
 
